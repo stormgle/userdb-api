@@ -1,0 +1,19 @@
+{
+  "name": "@stormgle/userdb-api",
+  "version": "1.0.0",
+  "description": "Standard UserDB API for user-services",
+  "main": "userdb.api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stormgle/userdb-api.git"
+  },
+  "author": "duongtdn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stormgle/userdb-api/issues"
+  },
+  "homepage": "https://github.com/stormgle/userdb-api#readme"
+}
